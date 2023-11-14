@@ -1,0 +1,13 @@
+name = "Bosses of Mass Destruction"
+filename = "BOMD-1.7.3-1.20.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/du3UfiLL/versions/FjFb2iUx/BOMD-1.7.3-1.20.2.jar"
+hash-format = "sha1"
+hash = "a1454044dd1ef0f9da08dcc73dbe95ffc2115afc"
+
+[update]
+[update.modrinth]
+mod-id = "du3UfiLL"
+version = "FjFb2iUx"

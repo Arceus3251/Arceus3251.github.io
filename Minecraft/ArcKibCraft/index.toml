@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adventurez.pw.toml"
+hash = "5114753cb4d08fb69cc23ff9bf58c70c3d2411f01c0b828dc24c25fa0cb8994b"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "56d57a869101dfd6784c044fd4fd694c9a527581079baf44d9dfbe8382b39a29"
 metafile = true
@@ -13,6 +18,26 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "b0e70adfb7f19c394fcc2b862839f3cb70be027cba275c2e7ff42b7aad75bfc1"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "45e9ed825929aee685220a3625e94d89c5ba7c91557d2b8050b70c6008de1a7d"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "b03ef1912b5ae7ca1ffe803466cefa02b75b73ab310346729a467757b4c80fba"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
@@ -46,8 +71,18 @@ hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "08636c58b5d8591cb713231a9f9831369436b8ad2504c5610c3b66370b5891fc"
 metafile = true
 
 [[files]]
@@ -76,6 +111,16 @@ hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
@@ -83,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "c7b5cc4b23192c970f0aa018e1e5e801a56c3ec2149e87eb30e4d57fa624e2ba"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
