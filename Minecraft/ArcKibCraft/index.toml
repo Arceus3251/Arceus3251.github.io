@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/additional-lanterns.pw.toml"
+hash = "2a39c976df9b566ba9b54f1e4fae5d98375061c6ccfc974529a9baf219de803c"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "5114753cb4d08fb69cc23ff9bf58c70c3d2411f01c0b828dc24c25fa0cb8994b"
 metafile = true
@@ -198,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/spellbound-weapons.pw.toml"
 hash = "f5ab1bfd9c063521ac2449d65bffff1bb0352b484eab5341d8883f136e1305fc"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "8d2d9bf76b6a9dddada92d642ac89d57a46d7ff629b6275958ff1d14d3d1a884"
 metafile = true
 
 [[files]]
