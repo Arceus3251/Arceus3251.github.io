@@ -6,6 +6,11 @@ hash = "56d57a869101dfd6784c044fd4fd694c9a527581079baf44d9dfbe8382b39a29"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "b0e70adfb7f19c394fcc2b862839f3cb70be027cba275c2e7ff42b7aad75bfc1"
 metafile = true
@@ -31,8 +36,18 @@ hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "ec5f0ed9e8d3b79ea61f7c79127b5f113e23ac96e92f5ba409084c8d0ab7da5e"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
 
 [[files]]
@@ -63,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "c7b5cc4b23192c970f0aa018e1e5e801a56c3ec2149e87eb30e4d57fa624e2ba"
 metafile = true
 
 [[files]]
