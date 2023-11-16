@@ -6,6 +6,11 @@ hash = "2a39c976df9b566ba9b54f1e4fae5d98375061c6ccfc974529a9baf219de803c"
 metafile = true
 
 [[files]]
+file = "mods/advancedreborn.pw.toml"
+hash = "24a11fe6b6324577c805b8f8ae2f08f8c9b20c69bf66a52690b796454413c55e"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "5114753cb4d08fb69cc23ff9bf58c70c3d2411f01c0b828dc24c25fa0cb8994b"
 metafile = true
@@ -27,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+hash = "b6b6e112dcd5a4c4db942e88c3ef5f89e722f51f82beae2a1e0fa792ad385946"
 metafile = true
 
 [[files]]
@@ -112,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
+hash = "551dfeadc5b1f1cd6cafa68455b3404b1f4bf253b37af5d0e2393fcc4866c4cc"
 metafile = true
 
 [[files]]
@@ -151,11 +156,6 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
-file = "mods/industrial-revolution.pw.toml"
-hash = "5a4ee8f354b74926638df717937223a71f7bbc57786215eec7f4f2efc1b8761a"
-metafile = true
-
-[[files]]
 file = "mods/inmis.pw.toml"
 hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
 metafile = true
@@ -178,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "9a504ed52b052856556f3aa8750ce9dfb6680574e8f4144cfa7d67fffcad1a66"
 metafile = true
 
 [[files]]
@@ -226,6 +231,11 @@ hash = "7d1ef6889db58ba8692f1f14e0486c8f035a30cdf8ad1569f355ff02bdb06763"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "adf39f52030ad2042392dcf00752c15042c86bb16ba823a10e15e333565ba1b1"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "ae9f8aab8ab115688b981f290bc59db0de3b982e0a828b2ece38c41130b46a08"
 metafile = true
@@ -243,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "8d2d9bf76b6a9dddada92d642ac89d57a46d7ff629b6275958ff1d14d3d1a884"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "e08ed79fafeb21ca809e76f4b328ecff1d30f2cfae62687087310eafd74b9cbd"
 metafile = true
 
 [[files]]
