@@ -181,6 +181,11 @@ hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
+file = "mods/lookin-sharp.pw.toml"
+hash = "4af342468bd8e5227423c02fe416fb84de0692e89298c4483ec587814c1ac624"
+metafile = true
+
+[[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "9a504ed52b052856556f3aa8750ce9dfb6680574e8f4144cfa7d67fffcad1a66"
 metafile = true
@@ -238,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "ae9f8aab8ab115688b981f290bc59db0de3b982e0a828b2ece38c41130b46a08"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "1b39621be692dd395719d77ca48a13ae28b2523fa4f6bd424547e977e43eb876"
 metafile = true
 
 [[files]]
