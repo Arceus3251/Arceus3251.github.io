@@ -96,11 +96,6 @@ hash = "977ea66c5be2b7135a66098e8ac9c1c58f932b72f4b51563830a6765ae0bbae6"
 metafile = true
 
 [[files]]
-file = "mods/create-ore-excavation.pw.toml"
-hash = "a92870d60a4072be02b302f5b50dc419016b0b74c6e0592acd0e21ddb73acf85"
-metafile = true
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
