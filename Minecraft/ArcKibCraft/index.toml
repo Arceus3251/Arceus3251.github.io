@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
+hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
 metafile = true
 
 [[files]]
@@ -188,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/lookin-sharp.pw.toml"
 hash = "4af342468bd8e5227423c02fe416fb84de0692e89298c4483ec587814c1ac624"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "e10664b0746bc479d2659d93cea3363ef8eabb7c3b7011a51b4dd66262329fed"
 metafile = true
 
 [[files]]
