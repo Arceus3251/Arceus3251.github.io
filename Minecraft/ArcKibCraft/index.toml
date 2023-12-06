@@ -231,6 +231,11 @@ hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "ee94afb53959dd6092a258147ac020aa8463761e3b9b36ff1a4e1c0156238c26"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "7868b15d73e524b8009505fa2112becb5a31e5c4cbdd7c46df4dc5ed9286c467"
 metafile = true
