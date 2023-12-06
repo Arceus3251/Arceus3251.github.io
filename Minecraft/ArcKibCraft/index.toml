@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
@@ -231,6 +231,11 @@ hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "7868b15d73e524b8009505fa2112becb5a31e5c4cbdd7c46df4dc5ed9286c467"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "d53a9b17a24b687107b6012579418f9a4dd49eaf768513f952e970e3b43de8ab"
 metafile = true
@@ -266,8 +271,18 @@ hash = "1b39621be692dd395719d77ca48a13ae28b2523fa4f6bd424547e977e43eb876"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "3cc3002783d73c23a08342f9b6926ca0c4987c9f1beb185fb9681eae3231e0bd"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "6720c5bdaff990a843d13f05ba48d50226f90f019354c2351c0ddfeddfa01b9e"
 metafile = true
 
 [[files]]
