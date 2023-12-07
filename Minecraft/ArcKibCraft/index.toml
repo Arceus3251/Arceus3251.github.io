@@ -46,6 +46,11 @@ hash = "45e9ed825929aee685220a3625e94d89c5ba7c91557d2b8050b70c6008de1a7d"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "cc6940ee899edfa54193639ff9c72f5e5c69d52c5e325ddb0d9bd01f76bf23e6"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "39c1c613510610ba17f1c40af55cbcf33cde14466f2f6ef9ab102fe67bf6cec5"
 metafile = true
