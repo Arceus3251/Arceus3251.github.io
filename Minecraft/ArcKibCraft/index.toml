@@ -96,6 +96,11 @@ hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "0d2b64eb11a52a0f1d645e40192e2c252af2019a74940e327477ac6048cad568"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
@@ -127,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
 metafile = true
 
 [[files]]
