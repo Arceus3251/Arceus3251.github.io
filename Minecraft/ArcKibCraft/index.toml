@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "11ea1ffcee9c24b49089fe3c536a1ab6c34536da79cf287e8286b85606fcec89"
+hash = "4c30aece20eef15f09e0163db70b61deba5136d15c750e0592c101d3958bd8bc"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/clutter.pw.toml"
-hash = "e9c7c111ef62506856f353eb78eb5c176b553e970672e453e50cf3b471d403a0"
+hash = "4b0f3d23e6d15a67f4936903ff4329e4a659333d3c123bfed78bc47ca3fbc730"
 metafile = true
 
 [[files]]
