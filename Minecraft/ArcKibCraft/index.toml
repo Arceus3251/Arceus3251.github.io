@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "d3f43c1b4ceee76f41e0033884cf56a311d5150b99fb95187df4a4e85ac91041"
+hash = "7677bf35a89d3f408f230e269892eb8fc20d38c8c5dacf13994af119c2f45908"
 metafile = true
 
 [[files]]
